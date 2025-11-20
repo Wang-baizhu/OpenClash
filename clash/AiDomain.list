@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 
+#huggingface
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,xethub.hf.co
 
 #claude
 PROCESS-NAME,Claude
