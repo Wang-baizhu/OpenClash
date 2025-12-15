@@ -29,6 +29,7 @@ PROCESS-NAME,Claude Helper
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,usefathom.com
 
 #recraft
